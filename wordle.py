@@ -1,4 +1,4 @@
-#cerner_2tothe5th_2022i
+#cerner_2tothe5th_2022
 import requests 
 import json
 def check_word(guess, correct, index, placement_list):
