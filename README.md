@@ -1,4 +1,5 @@
 Cerner 2^5 2022
+----
 
 Day 1: bash_parallel.sh - multithreaded alphabet print a-az each letter's print in a new thread 
 
